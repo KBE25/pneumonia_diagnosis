@@ -2,7 +2,7 @@
 
 [Credit: Medium.com](https://becominghuman.ai/pneumonia-detection-using-cnn-ac52873a2d1e)
 
-# Model for Pneumonia Analysis
+# Model for Pneumonia Diagnosis
 
 **Author: <a href="https://www.linkedin.com/in/karina-basto-eyzaguirre-203a0445/"> Karina Basto-Eyzaguirre</a>**
 
@@ -29,7 +29,7 @@ Thi project's modeling phase involved constructing a custom Convolutional Neural
 For Model Evaluation, a comprehensive approach was taken. Beyond standard metrics like accuracy, a custom function was used to calculate Precision, Recall, and F1-score, along with a full confusion matrix. Crucially, an optimal threshold optimization strategy was applied on our best performing model. This function iterated through various prediction probability thresholds to identify the point that best balanced the F1-score, aligning with the project's priority of maximizing true positive identification (recall) while maintaining acceptable false positives.
 
 ## Recommendations
-Based on our analysis we will recommend to hospital and clinics integrating our optimized Fusion CNN model v2, set with a threshold of 0.9996. This model will be ideal for clinics and hospitals with high volumes of juvenile pneumonia suspects. As our model can screens chest X-rays to identify pneumonia, medical experts then can focus on the model flagged positives, freeing up human resources for faster patient care. Negative classifications allow immediate pursuit of alternative diagnoses, while confirmed positives facilitate quick treatment initiation.
+Based on our analysis we will recommend to hospital and clinics integrating our optimized Fusion CNN model v2, set with a classfication threshold of 0.9996. This model will be ideal for clinics and hospitals with high volumes of juvenile pneumonia suspects. As our model can screens chest X-rays to identify pneumonia, medical experts then can focus on the model flagged positives, freeing up human resources for faster patient care. Negative classifications allow immediate pursuit of alternative diagnoses, while confirmed positives facilitate quick treatment initiation.
 
 The reason why this is the best is because it offers:
 
