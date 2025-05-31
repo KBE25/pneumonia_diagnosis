@@ -44,7 +44,7 @@ The reason why this is the best is because it offers:
 
 ## For More Information:
 See the full analysis in the <a href="https://github.com/KBE25/pneumonia_diagnosis/blob/main/notebook.ipynb">Jupyter Notebook</a>.
-The business information can also be found in <a href="">this presentation. </a>
+The business information can also be found in <a href="https://github.com/KBE25/pneumonia_diagnosis/blob/main/presentation.pdf">this presentation. </a>
 
 For additional info, contact Karina Basto-Eyzaguirre at karinabastoe@gmail.com.
 
@@ -53,7 +53,7 @@ For additional info, contact Karina Basto-Eyzaguirre at karinabastoe@gmail.com.
 - <a href="https://github.com/KBE25/pneumonia_diagnosis/blob/main/.gitignore"> .gitignore </a>
 - <a href="https://github.com/KBE25/pneumonia_diagnosis/blob/main/README.md"> README.md </a>
 - <a href="https://github.com/KBE25/pneumonia_diagnosis/blob/main/notebook.ipynb"> notebook.ipynb </a>
-- <a href=""> presentation </a>
+- <a href="https://github.com/KBE25/pneumonia_diagnosis/blob/main/presentation.pdf"> presentation </a>
 
 ### Resources
 - <a href="https://data.mendeley.com/datasets/rscbjbr9sj/3">Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images</a>
@@ -61,3 +61,4 @@ For additional info, contact Karina Basto-Eyzaguirre at karinabastoe@gmail.com.
 - <a href="https://thepathologist.com/issues/2024/articles/oct/persisting-challenges-in-pneumonia-diagnostics"> Persisting challenges in pneumonia diagnostics</a>
 - <a href="https://www.damoreinjurylaw.com/blog/pneumonia-misdiagnosis-conditions-its-mistaken-for-consequences/">Pneumonia misdiagnosis conditions its mistaken for consequences</a>
 - <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/understanding-pneumonia-complications-and-the-risks-of-late-diagnosis/articleshow/107032659.cms"> Understanding pneumonia complications and the risks of late diagnosis</a>
+
